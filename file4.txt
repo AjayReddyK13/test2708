@@ -1,0 +1,3 @@
+123
+to be ignored file
+removed from ignored files
